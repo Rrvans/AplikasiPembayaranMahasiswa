@@ -1,0 +1,13 @@
+cara :
+
+Login localhost:8080/petugas
+Username	& Password
+adminSPP	: admin
+ari		: admin1
+chatam		: admin2
+
+Login localhost:8080
+Username	& Password
+001		: siswa
+002		: siswa1
+003		: siswa2
